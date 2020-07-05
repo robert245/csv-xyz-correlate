@@ -1,0 +1,22 @@
+{
+  "name": "csv-xyz-correlate",
+  "version": "1.0.0",
+  "description": "Correlate xyz and xyzw by spacial distance",
+  "main": "src/main/js/main.js",
+  "author": {
+    "name": "Robert W",
+    "email": "robert.wave@sparkletech.com.au"
+  },
+  "scripts": {
+    "start": "node ."
+  },
+  "bin": {
+    "aws-login-alternative": "src/main/js/main.js"
+  },
+  "keywords": [],
+  "license": "BSD",
+  "dependencies": {
+    "neat-csv": "^5.2.0",
+    "objects-to-csv": "^1.3.6"
+  }
+}
